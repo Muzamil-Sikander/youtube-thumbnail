@@ -1,0 +1,70 @@
+#zz{
+    height: 60px;
+    width: 100px;
+    }
+    #mz{
+        height: 40px;
+        width: 600px;
+    position: relative;
+    bottom: 60px;
+    background-image: url("https://www.freeiconspng.com/thumbs/search-icon-png/search-icon-png-2.png");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: right;
+    font-size: 25px;
+    
+    }
+    #m{
+        padding-left: 10px;
+       
+    }
+    #zm{
+        height: 40px;
+        width: 40px;
+        position: relative;
+        bottom: 50px;
+        border-radius: 20px;
+    }
+    #baba{
+        height: 40px;
+        width: 40px;
+        position: relative;
+        bottom: 50px;
+        border-radius: 50px
+        
+    }
+
+
+    #r{
+        height: 30px;
+        width: 30px;
+        position: relative;
+        bottom: 55px;
+        border-radius: 2px;
+    }
+    #mmm{
+        height: 36px;
+        width: 35px;
+        position: relative;
+        bottom: 50px;
+        border-radius: 2px;
+    }
+    
+.aaa{
+    text-transform: uppercase;
+    list-style: none;
+    margin-left: -40px;
+
+}
+iframe{
+    height: 180px;
+    width: 280px;
+
+}
+#zmzm{
+    position: absolute;
+    top: 150px;
+    left: 120px;
+}
+   
+    
